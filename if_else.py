@@ -14,4 +14,5 @@ def checking(n):
 			print("Invalid")
 
 
-checking(26)
+x = input("Enter number: ")
+checking(int(x))
